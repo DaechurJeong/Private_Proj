@@ -1,2 +1,2 @@
 # Private_Proj
-mainly for studying
+For Algorithm studying
